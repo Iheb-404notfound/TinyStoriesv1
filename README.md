@@ -1,6 +1,6 @@
 # TinyStoriesv1
 
-Official-quality training code for the **TinyStories** models (Eldan & Li, 2023) — the famous 10M–33M parameter language models that achieved fluent English stories and have been cited in **over 600 academic papers**.
+Reproducing the official-quality training code for the **TinyStories** models (Eldan & Li, 2023) — the famous 10M–33M parameter language models that achieved fluent English stories and have been cited in **over 600 academic papers**.
 
 These tiny transformers prove that **high-quality synthetic data** can make even 10M-parameter models write coherent, grammatical stories — and at 28M–33M they even show in-context learning and simple reasoning!
 
