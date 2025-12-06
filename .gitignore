@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+wandb/
+runs/
+*.log
+*.pt
+*.bin
+checkpoints/
+TinyStories-*/
+.huggingface/
